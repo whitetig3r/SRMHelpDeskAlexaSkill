@@ -3,7 +3,7 @@ const Alexa = require('alexa-sdk');
 var cheerio = require('cheerio');
 require("request/package.json");
 var rp = require('request-promise');
-var APP_ID="amzn1.ask.skill.d59d15de-9066-4372-994f-0840895b09ba";
+var APP_ID="amzn1.ask.skill.#####################";
 
 var annh = []; //List that stores the announcements
 var events=[];
